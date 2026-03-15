@@ -5,7 +5,7 @@
 - **Write a program that implement stack (its operations) using I. Arrays  II. ADT**
 
 
-## I. Arrays:
+## 4.a I. Arrays:
 ## Program:
 
 ```c
@@ -92,7 +92,7 @@ int main() {
 
 ```
 
-## II. Linked List:
+## 4.b II. Linked List:
 
 ## Program:
 
