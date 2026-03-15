@@ -4,7 +4,7 @@
 
 - **> Write a program that implement Queue (its operations) using I. Arrays II. ADT**
 
-## I. Arrays:
+## 5.a I. Arrays:
 ## Program:
 
 ```c
@@ -128,7 +128,7 @@ int main()
 
 ``` 
 
-## II. Linked List:
+## 5.b II. Linked List:
 ## Program:
 
 ```c
