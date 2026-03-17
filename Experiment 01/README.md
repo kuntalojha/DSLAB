@@ -280,5 +280,162 @@ int main()
 ### Output:
 
 ```
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 1
+Enter data: 555
 
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 1
+Enter data: 999
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 2
+Enter data: 444
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 3
+Enter data: 888
+Enter position: 2
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 7
+Linked List: 999 -> 888 -> 555 -> 444 -> NULL
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 8
+Count Nodes 
+Number of nodes: 4
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 4
+First node deleted.
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 5
+Last node deleted.
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 7
+Linked List: 888 -> 555 -> NULL
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 6
+Enter position to delete: 1
+Node deleted from position 1.
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 7
+Linked List: 555 -> NULL
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Delete from Beginning
+5. Delete from End
+6. Delete from Position
+7. Display List
+8. Count Nodes
+9. Exit
+Enter your choice: 9
+Exiting program.
 ```
